@@ -9,7 +9,7 @@ build and run scripts you can use to start up the application.
     - Navigate to `public/script.js` and replace the placeholder `HYPERSWITCH_PUBLISHABLE_KEY` with your publishable key.
     - Navigate to `src/main/java/com/hyperswitch/sample/server.java` and replace the placeholder `HYPERSWITCH_API_KEY` with your API key.
 
-2. Install the dependencies :
+2. Install the dependencies / build the server :
 ~~~
 mvn package
 ~~~
