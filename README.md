@@ -19,4 +19,4 @@ mvn package
 java -cp target/sample-jar-with-dependencies.jar com.hyperswitch.sample.server
 ~~~
 
-4. The sample app is now accessible here : [http://localhost:4242/index.html](http://localhost:4242/index.html).
+4. The sample app will now be accessible here : [http://localhost:4242/index.html](http://localhost:4242/index.html).
